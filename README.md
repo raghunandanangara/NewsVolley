@@ -14,10 +14,10 @@ Selection of Google's Volley Library has been done due to the following advantag
 
 Taken care of following scenarios:
 
--> Used only Google supported libraries. No 3rd Party libs used
--> UI is consistent across all device screens both in Portrait and Landscape modes
--> Tested on GingerBird devices. Running smoothly with glitch, bug and crash free.
--> Lazyload of Images in Listview
--> Used GIT for source control
--> Commented appropriately
--> Compliant to OO Design Patterns
+1. Used only Google supported libraries. No 3rd Party libs used
+2. UI is consistent across all device screens both in Portrait and Landscape modes
+3. Tested on GingerBird devices. Running smoothly with glitch, bug and crash free.
+4. Lazyload of Images in Listview
+5. Used GIT for source control
+6. Commented appropriately
+7. Compliant to OO Design Patterns
