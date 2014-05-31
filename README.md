@@ -16,7 +16,7 @@ Taken care of following scenarios:
 
 -> Used only Google supported libraries. No 3rd Party libs used
 -> UI is consistent across all device screens both in Portrait and Landscape modes
--> Tested on GingerBird devices. Running smoothly with glitch, bug and crash free.
+-> Tested on GingerBird devices. Running smoothly with glitch, bug and crash free
 -> Lazyload of Images in Listview
 -> Used GIT for source control
 -> Commented appropriately
